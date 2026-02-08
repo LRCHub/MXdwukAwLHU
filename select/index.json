@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "焦動",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-02-08T13:53:05.405921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "焦動",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_焦動_レトロリロン.txt"
+    }
+  ]
+}
